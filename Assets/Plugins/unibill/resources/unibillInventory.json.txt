@@ -1,0 +1,45 @@
+{
+  "iOSSKU": "102",
+  "macAppStoreSKU": "",
+  "androidBillingPlatform": "GooglePlay",
+  "GooglePlayPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAixf85WGTxeipbOg97n7FW3crGRE2o/E8KkNFvSOJwCeG3oBPOdmZH840YzFikM1gTTeTmv1Ib6IHkZcXC+Z5X+8YfFfW3n8wDBXWnOkjLgZyzU+qU03UuRgRzIDUvab5DVCfDpcUCtBzt1fkEv2fQjfi9R4dnaxHAUKI5NJBR/dYUn62BePCGNUhglPmQ1jQxGYnDYO0eRI2DYqcDkchHTbY1EgUQVNWV/X4Qb59HtEtPXIwO7QMbOQF1tNOcAwvIBuhE1ieAN0Z69/ZZylHM+elaVB16oE7E9qovpu8yi/8E/gVVYKcA/G99NsiLlUEUgWlEPygo2e+/IWuSJaAiwIDAQAB",
+  "useAmazonSandbox": true,
+  "UseWP8MockingFramework": false,
+  "useHostedConfig": false,
+  "hostedConfigUrl": null,
+  "UseWin8_1Sandbox": true,
+  "samsungAppsMode": "PRODUCTION",
+  "samsungAppsItemGroupId": "",
+  "unibillAnalyticsAppId": "",
+  "unibillAnalyticsAppSecret": "",
+  "purchasableItems": {
+    "charset_000": {
+      "@id": "charset_000",
+      "@purchaseType": "Consumable",
+      "name": "Adverts Blocker",
+      "description": "Remove adverts from your game!",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 0.0,
+          "defaultLocale": "en_US",
+          "GooglePlay.Id": "charset_000"
+        },
+        "AmazonAppstore": {
+          "AmazonAppstore.Id": ""
+        },
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "AppleAppStore.Id": "",
+          "appleAppStorePriceTier": 0.0,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    }
+  },
+  "currencies": {}
+}

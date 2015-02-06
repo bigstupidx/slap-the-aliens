@@ -1,0 +1,2 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price
+charset_000,published,managed_by_android,false,"en_US;Adverts Blocker;Remove adverts from your game!",true,0

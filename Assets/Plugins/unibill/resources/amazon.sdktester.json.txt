@@ -1,0 +1,9 @@
+{
+  "": {
+    "itemType": "CONSUMABLE",
+    "description": "Remove adverts from your game!",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "Adverts Blocker"
+  }
+}

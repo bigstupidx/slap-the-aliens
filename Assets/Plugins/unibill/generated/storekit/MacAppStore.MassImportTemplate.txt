@@ -1,0 +1,2 @@
+SKU	Product ID	Reference Name	Type	Cleared For Sale	Wholesale Price Tier	Displayed Name	Description	Screenshot Path
+	charset_000	charset_000	Consumable	yes	0	Adverts Blocker	Remove adverts from your game!	
